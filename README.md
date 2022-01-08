@@ -1,12 +1,13 @@
 # Hi there, I'm Samuel 👋 
 
 
-## I'm a student at the Universidad Politécnica de Madrid
+## I'm a student at the Universidad Politécnica de Madrid doing Computer Science and Bussiness
 
 [comment]: <> (- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!)
+- 🔭 I’m a fourth-year college student passionate about new technologies
 - 🌱 I’m currently learning a lot of different things, so check them out 🤣
 - 👯 I’m looking to collaborate with other to expand my knowledge
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to practice kitesurf
 
 ### Connect with me:
 
@@ -25,6 +26,7 @@
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
