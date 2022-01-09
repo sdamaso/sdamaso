@@ -1,4 +1,4 @@
-# Hi there, I'm Samuel 👋 
+<h1 align="center"><samp> Hi there, I'm Samuel 👋 </samp></h1>
 
 
 ## I'm a student at the Universidad Politécnica de Madrid doing Computer Science and Bussiness
@@ -9,7 +9,12 @@
 - 👯 I’m looking to collaborate with other to expand my knowledge
 - ⚡ Fun fact: I love to practice kitesurf
 
-### Contact me:
+<br />
+<p align="center">
+  <img width="400" src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
+</p>
+
+<h3 align="left"><samp>📫 Reach me:</samp></h3>
 
 [<img align="left" alt="sdamaso | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sdamaso | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -17,6 +22,8 @@
 
 
 <br />
+
+
 
 ---
 
@@ -42,13 +49,13 @@
 
 <br />
 
+
 ---
 
-<details>
+
+![](https://visitor-badge.glitch.me/badge?page_id=sdamaso.sdamaso)
+
   
-</details>
-  
-[comment]: <> (<summary>:zap: Recent GitHub Activity</summary>)
   
 
 
