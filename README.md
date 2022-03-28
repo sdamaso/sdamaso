@@ -1,9 +1,9 @@
 <h1 align="center"><samp> Hi there, I'm Samuel 👋 </samp></h1>
 
-
 ## I'm a student at the Universidad Politécnica de Madrid doing Computer Science and Bussiness
 
 [comment]: <> (- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!)
+
 - 🔭 I’m a fourth-year college student passionate about new technologies
 - 🌱 I’m currently learning a lot of different things, so check them out 🤣
 - 👯 I’m looking to collaborate with other to expand my knowledge
@@ -20,10 +20,7 @@
 [<img align="left" alt="sdamaso | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="sdamaso | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-
 <br />
-
-
 
 ---
 
@@ -49,17 +46,9 @@
 
 <br />
 
-
 ---
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=sdamaso.sdamaso)
-
-  
-  
-
-
-
 
 [twitter]: https://twitter.com/samdamaso
 [instagram]: https://www.instagram.com/samuel.damaso/
